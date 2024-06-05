@@ -1,6 +1,8 @@
 body{
 
-    padding: 25px;
+    padding: 75px;
+    border: solid black;
+    margin: 75px;
 }
 
 .image-update{
