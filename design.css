@@ -1,6 +1,6 @@
 body{
 
-    padding: 75px;
+    padding: 150px;
     border: solid black;
     margin: 75px;
 }
@@ -13,5 +13,20 @@ body{
 .thumbnail{
 
     width: 3pc;
+
+}
+
+.createcss{
+    background: lightsteelblue;
+    padding: 150px;
+    border: solid black;
+    margin: 75px;
+}
+
+.updatecss{
+    background: lightsteelblue;
+    padding: 150px;
+    border: solid black;
+    margin: 75px;
 
 }
